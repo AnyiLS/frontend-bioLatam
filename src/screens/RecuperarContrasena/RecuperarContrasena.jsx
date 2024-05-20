@@ -23,7 +23,7 @@ const RecuperarContrasena = () => {
                 <img
                     src="/images/logolatam.webp"
                     alt="logo"
-                    width={190}
+                    width={350}
                     height={107}
                     className="mt-[50px]"
                 />

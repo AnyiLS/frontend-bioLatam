@@ -88,7 +88,7 @@ const Header = () => {
                         <Dialog.Title className="text-base font-semibold leading-6 text-gray-900">
                           <img
                             src="/images/logolatam.webp"
-                            className="w-[80px] pb-[30px]"
+                            className="w-[170px] pb-[30px]"
                             alt=""
                             width={130}
                             height={47}

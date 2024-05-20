@@ -12,10 +12,10 @@ HeaderStyles.Container = styled.div.attrs({
     ${tw`flex justify-between items-center`}
 
     .logo {
-      ${tw`w-[90px]`}
+      ${tw`w-[210px]`}
 
       @media(max-width: 767px) {
-        ${tw`w-[50px]`}
+        ${tw`w-[130px]`}
       }
     }
 

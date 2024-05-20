@@ -25,7 +25,7 @@ const Register = () => {
 				<img
 					src="/images/logolatam.webp"
 					alt="logo"
-					width={200}
+					width={350}
 					height={107}
 					className="mt-[50px]"
 				/>

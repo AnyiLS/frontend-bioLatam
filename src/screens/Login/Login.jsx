@@ -21,7 +21,7 @@ const Login = () => {
     return (
         <LoginContainer>
             <Container>
-                <img src="/images/logolatam.webp" alt="logo" width={200} height={107} className="mt-[50px]" />
+                <img src="/images/logolatam.webp" alt="logo" width={350} height={107} className="mt-[50px]" />
                 <TitleLogin>Plataforma de formación online</TitleLogin>
                 <form className="form-input" onSubmit={handleSubmit(handleLogin)}>
                     {
